@@ -1,3 +1,7 @@
+# Note
+
+This is a subdirectory clone of https://github.com/techchrism/valorant-api-docs.
+
 # Valorant API Types
 
 This is a collection of documented endpoints and return types for the unofficial Valorant API.
